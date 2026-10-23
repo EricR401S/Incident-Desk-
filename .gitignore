@@ -228,3 +228,4 @@ __pycache__/
 traces/
 artifacts/
 data/live_observations.jsonl
+lc_env/
